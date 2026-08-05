@@ -1,16 +1,15 @@
 owner: dame-senders
 repo: senders-status
 userAgent: dame-senders
-urls:
+sites:
   - name: Senders Portal
     url: https://portal.senders.ai
   - name: Senders MCP API
     url: https://mcp.senders.ai/health
   - name: Senders Main Site
     url: https://senders.ai
-  - name: Acelle (Newsletter)
+  - name: Acelle Newsletter
     url: https://mxa.aledamail.com
 status-website:
   cname: status.senders.ai
   name: Senders Status
-  logoUrl: https://senders.ai/assets/img/logo.png
