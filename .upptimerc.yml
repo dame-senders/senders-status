@@ -8,7 +8,7 @@ sites:
     url: https://mcp.senders.ai/health
   - name: Senders Main Site
     url: https://senders.ai
-  - name: Acelle Newsletter
+  - name: Senders Newsletter
     url: https://mxa.aledamail.com
 status-website:
   cname: status.senders.ai
