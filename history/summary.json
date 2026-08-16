@@ -58,17 +58,17 @@
     "url": "https://mxa.aledamail.com",
     "icon": "https://icons.duckduckgo.com/ip3/mxa.aledamail.com.ico",
     "slug": "senders-newsletter",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1207,
-    "timeDay": 1248,
-    "timeWeek": 1172,
-    "timeMonth": 1207,
-    "timeYear": 1207,
+    "time": 1202,
+    "timeDay": 1215,
+    "timeWeek": 1167,
+    "timeMonth": 1202,
+    "timeYear": 1202,
     "dailyMinutesDown": {}
   }
 ]
