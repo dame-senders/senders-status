@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1187,
     "timeDay": 1130,
-    "timeWeek": 831,
+    "timeWeek": 787,
     "timeMonth": 988,
     "timeYear": 1187,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 491,
-    "timeWeek": 543,
+    "timeWeek": 482,
     "timeMonth": 558,
     "timeYear": 591,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 451,
-    "timeWeek": 468,
+    "timeWeek": 446,
     "timeMonth": 569,
     "timeYear": 568,
     "dailyMinutesDown": {}
@@ -58,15 +58,15 @@
     "url": "https://mxa.aledamail.com",
     "icon": "https://icons.duckduckgo.com/ip3/mxa.aledamail.com.ico",
     "slug": "senders-newsletter",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.89%",
+    "status": "up",
+    "uptime": "98.66%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "98.66%",
     "time": 1245,
-    "timeDay": 1106,
-    "timeWeek": 1137,
+    "timeDay": 1180,
+    "timeWeek": 1130,
     "timeMonth": 1232,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
       "2026-09-27": 53,
       "2026-09-30": 97,
       "2026-09-29": 73,
-      "2026-10-16": 34
+      "2026-10-16": 275
     }
   }
 ]
