@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mxa.aledamail.com.ico",
     "slug": "senders-newsletter",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.89%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.89%",
     "time": 1245,
     "timeDay": 1106,
     "timeWeek": 1137,
@@ -78,7 +78,7 @@
       "2026-09-27": 53,
       "2026-09-30": 97,
       "2026-09-29": 73,
-      "2026-10-16": 0
+      "2026-10-16": 34
     }
   }
 ]
