@@ -60,9 +60,9 @@
     "slug": "senders-newsletter",
     "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "98.70%",
     "time": 1241,
     "timeDay": 1476,
@@ -80,7 +80,7 @@
       "2026-09-29": 73,
       "2026-10-16": 275,
       "2026-10-30": 401,
-      "2026-11-09": 0
+      "2026-11-09": 6
     }
   }
 ]
